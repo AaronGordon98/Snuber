@@ -1,0 +1,13 @@
+C:\Users\dotsc_agordon\Desktop\Snuber\Snuber\Snuber\bin\Debug\netstandard2.0\Snuber.deps.json
+C:\Users\dotsc_agordon\Desktop\Snuber\Snuber\Snuber\bin\Debug\netstandard2.0\Snuber.dll
+C:\Users\dotsc_agordon\Desktop\Snuber\Snuber\Snuber\bin\Debug\netstandard2.0\ref\Snuber.dll
+C:\Users\dotsc_agordon\Desktop\Snuber\Snuber\Snuber\bin\Debug\netstandard2.0\Snuber.pdb
+C:\Users\dotsc_agordon\Desktop\Snuber\Snuber\Snuber\obj\Debug\netstandard2.0\Snuber.csprojAssemblyReference.cache
+C:\Users\dotsc_agordon\Desktop\Snuber\Snuber\Snuber\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dotsc_agordon\Desktop\Snuber\Snuber\Snuber\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dotsc_agordon\Desktop\Snuber\Snuber\Snuber\obj\Debug\netstandard2.0\Snuber.AssemblyInfoInputs.cache
+C:\Users\dotsc_agordon\Desktop\Snuber\Snuber\Snuber\obj\Debug\netstandard2.0\Snuber.AssemblyInfo.cs
+C:\Users\dotsc_agordon\Desktop\Snuber\Snuber\Snuber\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\dotsc_agordon\Desktop\Snuber\Snuber\Snuber\obj\Debug\netstandard2.0\Snuber.dll
+C:\Users\dotsc_agordon\Desktop\Snuber\Snuber\Snuber\obj\Debug\netstandard2.0\ref\Snuber.dll
+C:\Users\dotsc_agordon\Desktop\Snuber\Snuber\Snuber\obj\Debug\netstandard2.0\Snuber.pdb
